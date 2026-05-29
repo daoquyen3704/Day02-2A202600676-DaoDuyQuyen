@@ -3,61 +3,6 @@
 
 # Phase 1 — Individual Scan: tìm 5+ problems (25')
 
-## Mục tiêu
-
-Mỗi người scan rộng ít nhất 5 problems từ trải nghiệm thật. Đây là phần phân kỳ cá nhân.
-
-Bonus:
-
-- 8+ problems: bonus nếu vẫn cụ thể.
-- 10+ problems: bonus tốt nếu đa dạng lăng kính và có dấu hiệu thật.
-- Không bonus cho list dài nhưng toàn ý chung chung.
-
-## 4 lăng kính để scan
-
-Một problem có thể rơi vào nhiều lăng kính. Không cần phân loại hoàn hảo ở bước này. Dùng lăng kính để mở rộng quan sát, rồi bước sau mới filter.
-
-| Lăng kính | Câu hỏi gợi mở | Ví dụ |
-|---|---|---|
-| **Lặp lại** | Việc gì cứ xuất hiện đều đặn mỗi ngày/tuần/tháng?<br>Nếu phải làm thêm 10 lần nữa, phần nào tôi muốn chuẩn hóa hoặc tự động hóa?<br>Người mới vào có phải hỏi lại cùng một quy trình không? | Báo cáo tuần, nhập liệu, tổng hợp câu hỏi |
-| **Tốn thời gian** | Việc gì mỗi lần làm đều nặng, dù không nhất thiết xảy ra thường xuyên?<br>Thời gian mất ở đâu: tìm thông tin, đọc hiểu, tổng hợp, chờ người khác, format, hay sửa lại?<br>Nếu giảm 50% thời gian thì có đáng kể không? | Đọc tài liệu dài, tìm quyết định cũ, review PRD |
-| **AI có thể tốt hơn** | Việc gì cần hiểu ngữ cảnh, đọc/viết ngôn ngữ, phân loại, so sánh, tổng hợp hoặc gợi ý đúng lúc?<br>Nếu AI chỉ hỗ trợ một bước trong workflow, bước nào đáng hỗ trợ nhất?<br>Nếu AI sai ở bước đó thì hậu quả là gì? | Search tài liệu, gợi ý next step, tóm tắt nhiều nguồn |
-| **Pain từ người khác** | Ai ngoài tôi đang bị kẹt hoặc phàn nàn lặp lại?<br>Họ thường nói câu gì, hỏi lại điều gì, hoặc bỏ sót bước nào?<br>Có dấu hiệu thật không: ticket, Slack/Discord, comment, survey, phản hồi trực tiếp? | Hỏi lại deadline, không hiểu task, support ticket lặp lại |
-
-Cách phân biệt nhanh:
-
-- `Lặp lại` bắt đầu từ câu hỏi: việc này xảy ra bao nhiêu lần?
-- `Tốn thời gian` bắt đầu từ câu hỏi: mỗi lần làm tốn bao nhiêu công?
-- Một problem vừa lặp lại vừa tốn thời gian thì càng đáng đưa vào danh sách scan.
-
-Nếu bí, tự hỏi:
-
-- Tuần trước tôi mất nhiều thời gian nhất vào việc gì?
-- Việc gì tôi hay trì hoãn vì nhàm chán hoặc rối?
-- Người khác hay hỏi tôi câu gì lặp lại?
-- Có workflow nào ở trường/công ty ai cũng biết là chậm?
-- Có app nào tôi dùng và thường nghĩ "giá như nó hiểu mình hơn"?
-
-Một số điểm bắt đầu dễ quan sát:
-
-| Bối cảnh | Có thể nhìn vào đâu? | Câu hỏi gợi mở |
-|---|---|---|
-| Học tập | Bài tập, tài liệu, deadline, câu hỏi lặp lại trong lớp | Phần nào làm tôi mất thời gian vì phải đọc, tổng hợp, hỏi lại hoặc đoán ý? |
-| Công việc / thực tập | Báo cáo, họp, handoff, ticket, review, nhập liệu | Việc nào lặp lại đủ nhiều nhưng vẫn cần hiểu ngữ cảnh trước khi xử lý? |
-| Nhóm / CLB / dự án | Phân công, theo dõi tiến độ, feedback, tổng hợp quyết định | Chỗ nào mọi người hay hiểu khác nhau hoặc bỏ sót việc cần làm? |
-| Sản phẩm đang dùng | Search, onboarding, support, form, notification | Điểm nào user phải tự nối nhiều thông tin rời rạc để hoàn thành việc? |
-
-## Ngân hàng gợi ý problem
-
-Nếu vẫn bí ý tưởng, đọc nhanh các gợi ý dưới đây rồi quay lại trải nghiệm thật của bạn. Không copy nguyên văn; hãy viết lại theo người dùng, workflow và dấu hiệu thật mà bạn quan sát được.
-
-| Bối cảnh | Gợi ý problem để suy nghĩ |
-|---|---|
-| Học tập | Tìm lại quyết định/câu trả lời cũ trong Discord; đọc tài liệu dài trước deadline; không biết bài nộp thiếu field nào; ôn tập từ nhiều nguồn rời rạc. |
-| Đời sống cá nhân | Theo dõi chi tiêu rải rác nhiều app; lên kế hoạch đi lại/ăn uống cho nhóm; tổng hợp giấy tờ cá nhân; nhắc việc định kỳ nhưng hay quên context. |
-| Thực tập / công việc mới | Hỏi lại quy trình onboarding; tìm người phụ trách đúng việc; viết update hằng tuần; hiểu task từ nhiều Slack/thread/tài liệu. |
-| Người đi làm | Tổng hợp báo cáo tuần; chuẩn bị meeting recap; review tài liệu dài; phân loại ticket/support; tìm quyết định cũ trước khi làm tiếp. |
-| Cải thiện sản phẩm đang dùng | Search kém; onboarding khó hiểu; notification không đúng lúc; form dài và dễ nhập sai; support phải hỏi lại cùng một thông tin nhiều lần. |
 
 ## Bảng scan
 
@@ -80,33 +25,6 @@ Nếu vẫn bí ý tưởng, đọc nhanh các gợi ý dưới đây rồi quay
 
 # Phase 2 — Top 3 Problem Cards + draft workflow (35')
 
-## Mục tiêu
-
-Từ 5+ problems, mỗi người chọn top 3 để chuẩn bị share với nhóm. Mỗi top problem cần có:
-
-- Problem Card.
-- Draft current workflow.
-- Draft future workflow.
-- Lý do vì sao bài này có impact.
-
-## Chọn top 3
-
-Tiêu chí chọn:
-
-- Actor rõ.
-- Workflow hiện tại có thể vẽ được.
-- Bottleneck cụ thể.
-- Impact có thể đo hoặc ước lượng.
-- Có thể so sánh No AI / Rule / Workflow / Agent.
-- Không quá rộng cho một buổi lab.
-
-| Rank | Problem | Vì sao chọn | Điều còn chưa chắc |
-|---|---|---|---|
-| 1 | Tìm kiếm và trích xuất số liệu từ các file báo cáo PDF dài | vì mất cả buổi để Ctrl+F, dễ bỏ sót số liệu trong bảng biểu và có metric khá rõ | Chưa chắc nên giải ở mức search, OCR hay trích xuất tự động; cần kiểm tra PDF có text hay chỉ là ảnh scan |
-| 2 | Tóm tắt và kết nối các cuộc thảo luận trong chat nhóm thành checklist nhiệm vụ rõ ràng | Tin nhắn trôi, task dễ bị quên, đầu ra tự nhiên là checklist nên workflow rất rõ | Chưa chắc vấn đề chính là tóm tắt hay phân công; có thể chỉ cần template + action item rule là đủ |
-| 3 | Thành viên CLB/Ban cán sự lớp liên tục hỏi lại các thông tin, quy định, lịch trình cũ trên Discord | Đây là pain lặp lại, có dấu hiệu thật, và có thể đo số lần hỏi lại mỗi tuần | Chưa chắc đây đủ lớn để thành bài lab; cần xác nhận tần suất và source of truth, vì giải pháp có thể chỉ là FAQ/pinned post |
-
-## Problem Card template
 ### Problem1
 
 ```text
